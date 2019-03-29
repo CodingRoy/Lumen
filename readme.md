@@ -1,4 +1,5 @@
 # Lumen
+[![Build Status](https://travis-ci.org/CodingRoy/Lumen.svg?branch=master)](https://travis-ci.org/CodingRoy/Lumen)
 Setting up a Laravel Lumen project from scratch.
 Hopefully to create something that looks stunning and works like a charm, a simple blog/ forum or something..
 
